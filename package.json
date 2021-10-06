@@ -1,0 +1,25 @@
+{
+  "name": "@flamedb/next",
+  "version": "1.0.6",
+  "description": "Easy to use wrapper for Firebase Firestore. A next gen version of FlameDB",
+  "main": "./src/index.js",
+  "keywords": [
+    "firebase",
+    "google",
+    "firestore",
+    "wrapper",
+    "easy-to-use",
+    "easy",
+    "typescript",
+    "beginner"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^9.12.0",
+    "lodash.merge": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/lodash.merge": "^4.6.6"
+  }
+}
